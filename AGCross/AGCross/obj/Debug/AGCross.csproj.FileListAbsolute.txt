@@ -1,0 +1,6 @@
+C:\Users\hersyck\Desktop\8vo Semestre Materias\Algoritmos Geneticos (Asdrubal Lopez Chau)\AGCross\AGCross\bin\Debug\AGCross.exe.config
+C:\Users\hersyck\Desktop\8vo Semestre Materias\Algoritmos Geneticos (Asdrubal Lopez Chau)\AGCross\AGCross\bin\Debug\AGCross.exe
+C:\Users\hersyck\Desktop\8vo Semestre Materias\Algoritmos Geneticos (Asdrubal Lopez Chau)\AGCross\AGCross\bin\Debug\AGCross.pdb
+C:\Users\hersyck\Desktop\8vo Semestre Materias\Algoritmos Geneticos (Asdrubal Lopez Chau)\AGCross\AGCross\obj\Debug\AGCross.csprojResolveAssemblyReference.cache
+C:\Users\hersyck\Desktop\8vo Semestre Materias\Algoritmos Geneticos (Asdrubal Lopez Chau)\AGCross\AGCross\obj\Debug\AGCross.exe
+C:\Users\hersyck\Desktop\8vo Semestre Materias\Algoritmos Geneticos (Asdrubal Lopez Chau)\AGCross\AGCross\obj\Debug\AGCross.pdb
